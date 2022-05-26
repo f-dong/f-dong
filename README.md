@@ -10,8 +10,6 @@
 
 
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
-
 <!---
 f-dong/f-dong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
